@@ -1,0 +1,22 @@
+﻿Build started 6/27/2013 10:30:21 AM.
+     1>Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\LibMP3DLL\LibMP3DLL.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\LibMP3DLL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\LibMP3DLL.unsuccessfulbuild".
+         Touching "Debug\LibMP3DLL.lastbuildstate".
+     1>Done Building Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\LibMP3DLL\LibMP3DLL.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.13
