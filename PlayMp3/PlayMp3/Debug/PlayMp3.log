@@ -1,34 +1,34 @@
-﻿Build started 6/27/2013 10:30:21 AM.
-     1>Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\PlayMp3\PlayMp3.vcxproj" on node 3 (build target(s)).
+﻿Build started 7/9/2013 11:08:03 AM.
+     1>Project "C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\PlayMp3\PlayMp3.vcxproj" on node 3 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\PlayMp3.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
          All outputs are up-to-date.
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\PlayMp3.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PlayMp3Dlg.cpp
          PlayMp3Dlg.cpp
-     1>c:\users\310126802\documents\powersleep\source_code\c++\cppmp3player-ver071_c++_working\playmp3\playmp3\playmp3dlg.cpp(216): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
-     1>c:\users\310126802\documents\powersleep\source_code\c++\cppmp3player-ver071_c++_working\playmp3\playmp3\playmp3dlg.cpp(219): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
-     1>c:\users\310126802\documents\powersleep\source_code\c++\cppmp3player-ver071_c++_working\playmp3\playmp3\playmp3dlg.cpp(243): warning C4552: '!' : operator has no effect; expected operator with side-effect
-     1>c:\users\310126802\documents\powersleep\source_code\c++\cppmp3player-ver071_c++_working\playmp3\playmp3\playmp3dlg.cpp(506): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
-     1>c:\users\310126802\documents\powersleep\source_code\c++\cppmp3player-ver071_c++_working\playmp3\playmp3\playmp3dlg.cpp(509): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\310126802\documents\projects\powersleep\source_code\c++\mp3windows\playmp3\playmp3\playmp3dlg.cpp(216): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\310126802\documents\projects\powersleep\source_code\c++\mp3windows\playmp3\playmp3\playmp3dlg.cpp(219): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\310126802\documents\projects\powersleep\source_code\c++\mp3windows\playmp3\playmp3\playmp3dlg.cpp(243): warning C4552: '!' : operator has no effect; expected operator with side-effect
+     1>c:\users\310126802\documents\projects\powersleep\source_code\c++\mp3windows\playmp3\playmp3\playmp3dlg.cpp(511): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\310126802\documents\projects\powersleep\source_code\c++\mp3windows\playmp3\playmp3\playmp3dlg.cpp(514): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
        ResourceCompile:
          All outputs are up-to-date.
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\Debug\PlayMp3.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Debug\PlayMp3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\Debug\PlayMp3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\Debug\PlayMp3.lib" /MACHINE:X86 Debug\PlayMp3.res
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\Debug\PlayMp3.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Debug\PlayMp3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\Debug\PlayMp3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\Debug\PlayMp3.lib" /MACHINE:X86 Debug\PlayMp3.res
          Debug\guicon.obj
          Debug\LibMP3DLL.obj
          Debug\PlayMp3.obj
          Debug\PlayMp3Dlg.obj
          Debug\stdafx.obj
      1>guicon.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-         PlayMp3.vcxproj -> C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\Debug\PlayMp3.exe
+         PlayMp3.vcxproj -> C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\Debug\PlayMp3.exe
        Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\Debug\PlayMp3.exe;#1" /manifest Debug\PlayMp3.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\Debug\PlayMp3.exe;#1" /manifest Debug\PlayMp3.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
        FinalizeBuildStatus:
          Deleting file "Debug\PlayMp3.unsuccessfulbuild".
          Touching "Debug\PlayMp3.lastbuildstate".
-     1>Done Building Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\PlayMp3\PlayMp3.vcxproj" (build target(s)).
+     1>Done Building Project "C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\PlayMp3\PlayMp3.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.38
+Time Elapsed 00:00:02.81

@@ -1,5 +1,5 @@
-﻿Build started 6/27/2013 10:30:21 AM.
-     1>Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\MP3NetLib\MP3NetLib.vcxproj" on node 2 (build target(s)).
+﻿Build started 7/9/2013 11:08:03 AM.
+     1>Project "C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\MP3NetLib\MP3NetLib.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\MP3NetLib.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
@@ -9,14 +9,14 @@
          All outputs are up-to-date.
        Link:
          All outputs are up-to-date.
-         MP3NetLib.vcxproj -> C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\Debug\MP3NetLib.dll
+         MP3NetLib.vcxproj -> C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\Debug\MP3NetLib.dll
        MetaGen:
        Skipping target "MetaGen" because all output files are up-to-date with respect to the input files.
        FinalizeBuildStatus:
          Deleting file "Debug\MP3NetLib.unsuccessfulbuild".
          Touching "Debug\MP3NetLib.lastbuildstate".
-     1>Done Building Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\MP3NetLib\MP3NetLib.vcxproj" (build target(s)).
+     1>Done Building Project "C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\MP3NetLib\MP3NetLib.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.15
+Time Elapsed 00:00:00.17

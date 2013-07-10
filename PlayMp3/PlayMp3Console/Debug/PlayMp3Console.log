@@ -1,5 +1,5 @@
-﻿Build started 6/27/2013 10:30:21 AM.
-     1>Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\PlayMp3Console\PlayMp3Console.vcxproj" on node 3 (build target(s)).
+﻿Build started 7/9/2013 11:08:03 AM.
+     1>Project "C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\PlayMp3Console\PlayMp3Console.vcxproj" on node 3 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\PlayMp3Console.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
@@ -14,8 +14,8 @@
        FinalizeBuildStatus:
          Deleting file "Debug\PlayMp3Console.unsuccessfulbuild".
          Touching "Debug\PlayMp3Console.lastbuildstate".
-     1>Done Building Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\PlayMp3Console\PlayMp3Console.vcxproj" (build target(s)).
+     1>Done Building Project "C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\PlayMp3Console\PlayMp3Console.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.08
+Time Elapsed 00:00:00.10

@@ -1,5 +1,5 @@
-﻿Build started 6/27/2013 10:30:21 AM.
-     1>Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\LibMP3\LibMP3.vcxproj" on node 2 (build target(s)).
+﻿Build started 7/9/2013 11:08:03 AM.
+     1>Project "C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\LibMP3\LibMP3.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\LibMP3.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
@@ -7,12 +7,12 @@
          All outputs are up-to-date.
        Lib:
          All outputs are up-to-date.
-         LibMP3.vcxproj -> C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\Debug\LibMP3.lib
+         LibMP3.vcxproj -> C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\Debug\LibMP3.lib
        FinalizeBuildStatus:
          Deleting file "Debug\LibMP3.unsuccessfulbuild".
          Touching "Debug\LibMP3.lastbuildstate".
-     1>Done Building Project "C:\Users\310126802\Documents\POWERsleep\Source_Code\C++\cppmp3player-ver071_c++_working\PlayMp3\LibMP3\LibMP3.vcxproj" (build target(s)).
+     1>Done Building Project "C:\Users\310126802\Documents\Projects\POWERsleep\Source_Code\C++\mp3windows\PlayMp3\LibMP3\LibMP3.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.11
+Time Elapsed 00:00:00.17
